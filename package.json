@@ -1,0 +1,24 @@
+{
+  "name": "projekt_8",
+  "version": "1.0.0",
+  "description": "another project no 8",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "project_8"
+  },
+  "keywords": [
+    "html",
+    "css",
+    "js"
+  ],
+  "author": "tomaszkraszkiewicz",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0"
+  }
+}
